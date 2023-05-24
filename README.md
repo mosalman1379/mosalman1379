@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm MohammadHosein Mosalman</h1>
-<h3 align="center">Pasunate python developer</h3>
+<h1 align="center">Hi 👋, I'm MohammadHossein Mosalman</h1>
+<h3 align="center">Python Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3><a style="margin:0 5px" href="https://www.linkedin.com/in/mohammad-hussein-mosalman/">
+<img src="https://www.vectorlogo.zone/logos/linkedin/index.html">
+</a>
 <p align="left">
 </p>
 
