@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer</h3>
 
 <h3 align="left">Connect with me: </h3><a style="margin:0 5px" href="https://www.linkedin.com/in/mohammad-hussein-mosalman/">
-<img src="https://www.vectorlogo.zone/logos/linkedin/index.html">
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 </a>
 <p align="left">
 </p>
