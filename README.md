@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm MohammadHossein Mosalman</h1>
 <h3 align="center">Python Developer</h3>
 
-
-<h3>About Me</h3>
-<p>
 <h3>About Me</h3>
 <p>I am a ‌Back-End programmer in Python and Django. I also have enough skills in designing the Front of websites. My interest in working in the field of Python is one of my strengths, and I always try to learn new things in this field<br/>
 I also have studies in the field of blockchain and the development of smart contracts on the Ethereum platform</p>
